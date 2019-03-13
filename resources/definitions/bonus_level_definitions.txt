@@ -1,0 +1,72 @@
+# Level 1
+# An Emuji level
+
+START_LEVEL
+level_name:Kill the Emuji
+ball_velocities:-30,400 2,400 30,400
+background:image(background_images/voca_people.jpg)
+paddle_speed:800
+paddle_width:50
+block_definitions:definitions/emuji_block_definitions.txt
+blocks_start_x:30
+blocks_start_y:45
+row_height:130
+num_blocks:6
+START_BLOCKS
+---s
+-c---c
+s--s--s
+END_BLOCKS
+END_LEVEL
+
+
+# Level 2
+# snooker game
+
+START_LEVEL
+level_name:Play snooker
+ball_velocities:-20,500 20,500
+background:image(background_images/snooker.jpg)
+paddle_speed:650
+paddle_width:200
+block_definitions:definitions/orsana_block_definitions.txt
+blocks_start_x:50
+blocks_start_y:80
+row_height:60
+num_blocks:30
+START_BLOCKS
+--l--g--l--g--l--g-
+-m--m--m--m--m--m--m--m--m
+--g--l--g--l--g--l-
+-y--y--y--y--y--y--y--y--y
+END_BLOCKS
+END_LEVEL
+
+
+
+# Level 3
+# Third for fun
+
+START_LEVEL
+level_name: Third fun
+ball_velocities:45,550 46,550 47,550 45,550 47,550
+background:image(background_images/wood.jpg)
+paddle_speed:650
+paddle_width:250
+block_definitions:definitions/third_fun_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:90
+START_BLOCKS
+-
+-
+occcccoooccccco
+oobbbooooobbboo
+oobbbooooobbboo
+ooooooooooooooo
+ooocccccccccooo
+oooooccccoooooo
+
+END_BLOCKS
+END_LEVEL

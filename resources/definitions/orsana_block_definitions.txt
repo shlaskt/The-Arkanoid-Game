@@ -1,0 +1,9 @@
+# block definitions
+bdef symbol:l width:70 height:40 hit_points:3 fill-3:color(RGB(51,102,255)) fill-2:color(RGB(102,102,255)) fill-1:color(RGB(153,102,255))
+bdef symbol:g width:70 height:40 hit_points:3 fill-3:color(RGB(0,153,51)) fill-2:color(RGB(51,204,51)) fill-1:color(RGB(102,255,102))
+
+bdef symbol:m width:30 height:30 hit_points:1 fill:color(red) stroke:color(blue)
+bdef symbol:y width:30 height:30 hit_points:1 fill:color(yellow) stroke:color(green)
+
+# spacers definitions
+sdef symbol:- width:25

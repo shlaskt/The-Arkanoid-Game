@@ -1,0 +1,9 @@
+# default
+default height:100 width:100
+
+# block definitions
+bdef symbol:c hit_points:3 fill-3:image(block_images/loughing.jpg) fill-2:image(block_images/terified.jpg) fill-1:image(block_images/monkey.jpg)
+bdef symbol:s hit_points:3 fill-3:image(block_images/confuse.jpg) fill-2:image(block_images/terified.jpg) fill-1:image(block_images/monkey.jpg)
+
+# spacers definitions
+sdef symbol:- width:100
