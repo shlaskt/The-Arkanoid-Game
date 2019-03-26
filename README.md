@@ -23,7 +23,7 @@ As part of an Intro to OOP course we were given a task that emphasizes:
     ```
     $ git clone https://github.com/eyalcohen308/Arkanoid.git
     ```
-2. run this commands:
+2. Write those commands in the terminal:
     ```
     $ make compile
     $ make run
