@@ -1,6 +1,3 @@
-# shlaskt
-# 204300602
-
 compile: bin
 	find src -name "*.java" > sources.txt
 	javac -d bin -cp biuoop-1.4.jar @sources.txt
