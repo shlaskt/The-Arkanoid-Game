@@ -5,14 +5,14 @@
 
 ## General
 As part of an Intro to OOP course we were given a task that emphasizes:
-OOP:
+1. OOP:
 * Familiarity with basic design patterns in OOP such as decorator, observer and factory design patterns.
 * Keep open/closed principle states.
 * Use of polymorphism and inheritance.
-Java:
+2. Java:
 * Using java collections and data structures.
 * Using Java I/O to read and write files(saving the high-scores of players across different games).
-Game:
+3. Game:
 * Working with GUI.
 * Creating game levels based on human-readable text files.
 * Added different levels with different difficulties.
